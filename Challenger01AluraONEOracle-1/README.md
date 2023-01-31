@@ -1,2 +1,0 @@
-# ChallengerAluraONEOracle
-Encriptador de Texto
