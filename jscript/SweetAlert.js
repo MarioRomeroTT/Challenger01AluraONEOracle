@@ -1,7 +1,7 @@
 function alertcopiadoCorrecto() {
     swal.fire({
         position: 'top-end',
-        icon: 'success',
+        icon: 'type',
         title: 'Copiado',
         showConfirmButton: false,
         timer: 1200,
